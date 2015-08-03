@@ -1,0 +1,2 @@
+angular.module("pt").run(["$templateCache", function($templateCache) {$templateCache.put("my-profile/my-profile.html","<div class=\"my-profile\">\n	<p>{{message}}</p>\n</div>");
+$templateCache.put("main/main.html","<my-profile></my-profile>");}]);

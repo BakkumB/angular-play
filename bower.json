@@ -1,0 +1,10 @@
+{
+  "name": "angular-play",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tomgrooffer/pt-web",
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-ui-router": "~0.2.15",
+    "jquery": "~2.1.4"
+  }
+}
